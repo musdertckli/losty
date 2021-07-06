@@ -3,11 +3,13 @@
   padding:0;
 }
 body{
-  background:#dc67d8;
+  background:#777;
 }
 #contenedor{
   width:980px;
-  heigth:680px;
+  heigth:980px;
+  border:1px solid #454;
+  border-radius:4px;
   background:#78c837;
 }
 h1{
