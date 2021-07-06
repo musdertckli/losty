@@ -1,0 +1,13 @@
+*{
+  margin:auto;
+  padding:0;
+}
+#contenedor{
+  width:980px;
+  heigth:680px;
+  background:#78c837;
+}
+h1{
+  color:#fff;
+  font-size:23px;
+}
