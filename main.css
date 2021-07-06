@@ -2,6 +2,9 @@
   margin:auto;
   padding:0;
 }
+body{
+  background:#dc67d8;
+}
 #contenedor{
   width:980px;
   heigth:680px;
